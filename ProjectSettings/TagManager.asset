@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Enemy
+  - Point
+  - Bullet
+  - Trap
+  - Trampoline
+  - Spike
+  - Rope
+  - Water
+  - Door
+  - House
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 2606610205
+    locked: 0
+  - name: 'Wall '
+    uniqueID: 1423232069
+    locked: 0
+  - name: Trap
+    uniqueID: 594659801
+    locked: 0
+  - name: Deco
+    uniqueID: 1596286783
+    locked: 0
+  - name: Coin
+    uniqueID: 3467484593
+    locked: 0
+  - name: 'Entity '
+    uniqueID: 4173897851
+    locked: 0
+  - name: Ground
+    uniqueID: 4111898879
+    locked: 0
+  - name: Water
+    uniqueID: 3615452457
+    locked: 0
+  - name: Rope
+    uniqueID: 3456579221
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
